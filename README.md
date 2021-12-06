@@ -1,7 +1,8 @@
 ![image](https://user-images.githubusercontent.com/95602963/144788455-62e3307b-2f30-4ae4-a7d6-f525d309edbb.png)
 ![image](https://user-images.githubusercontent.com/95602963/144788469-52ae8885-b705-44a0-b3ab-312f3b0342cb.png)
 ## Only for 7.5$  Send, and DM ME Give me a screenshot
-## Paypal: https://www.paypal.com/paypalme/Talaloq | Discord: https://discord.gg/rtQHekszYA
+## Paypal: https://www.paypal.com/paypalme/Talaloq
+## Discord: https://discord.gg/rtQHekszYA
 
 # Ii7x
 Official Ii7x repos
