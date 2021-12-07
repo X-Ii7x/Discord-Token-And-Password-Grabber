@@ -1,12 +1,6 @@
 ### [🔗 Discord Link](https://discord.gg/VRgx9ybttS) 
 
 
-# Ii7x
-Official Ii7x repos
-
-# What is Ii7x ? 
-Ii7x is an educational purpose only open-source Discord Malware. With an easy to build panel and a "premium" feature (Join Discord for more infos) 
-
 # Terms
 - [x] You only use it for educational or private purposes.
 - [x] Reselling is forbidden.
