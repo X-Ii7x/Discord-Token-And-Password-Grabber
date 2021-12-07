@@ -1,10 +1,5 @@
-#### [🔗 Discord Link](https://discord.gg/VRgx9ybttS) 
+### [🔗 Discord Link](https://discord.gg/VRgx9ybttS) 
 
-
-
-## Only for 3.7$  Send, and DM ME Give me a screenshot
-## Paypal: https://www.paypal.com/paypalme/Talaloq
-## Discord: https://discord.gg/rtQHekszYA
 
 # Ii7x
 Official Ii7x repos
